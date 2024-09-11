@@ -1,5 +1,5 @@
-import { FlagInterpreter } from "./components/flag-interpreter";
+import { FlagFinder } from "./components/flag-finder";
 
 export default function App() {
-  return <FlagInterpreter />;
+  return <FlagFinder />;
 }
